@@ -1,4 +1,3 @@
-# Son Teslim Tarihi ve Saati 19/06/2022 - 23:00
 Car Registration System;<br>
 TODO/Features
 - [X] Registration user with name,surname,username,email and password
