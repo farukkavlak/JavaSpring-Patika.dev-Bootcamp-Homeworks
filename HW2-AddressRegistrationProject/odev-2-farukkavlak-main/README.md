@@ -1,4 +1,3 @@
-# Odev 2 teslim tarihi : 13 Haziran 23:00 
 Address Registration System;<br>
 TODO/Features
 - [X] Save Country
